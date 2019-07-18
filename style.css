@@ -1,11 +1,10 @@
+html{
+    background-image: linear-gradient(black,red);
+  }
 #frontEnd{
   position: relative;
   margin-right: 50px;
 },
- 
-html{
-    background-image: linear-gradient(black,red);
-  },
 h1 {
 color:white;  
 },
